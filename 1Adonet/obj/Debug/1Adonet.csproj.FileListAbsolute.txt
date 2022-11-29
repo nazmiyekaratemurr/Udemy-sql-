@@ -1,0 +1,8 @@
+D:\lenovo\Documents\1Adonet\bin\Debug\1Adonet.exe.config
+D:\lenovo\Documents\1Adonet\bin\Debug\1Adonet.exe
+D:\lenovo\Documents\1Adonet\bin\Debug\1Adonet.pdb
+D:\lenovo\Documents\1Adonet\obj\Debug\1Adonet.csproj.AssemblyReference.cache
+D:\lenovo\Documents\1Adonet\obj\Debug\1Adonet.csproj.SuggestedBindingRedirects.cache
+D:\lenovo\Documents\1Adonet\obj\Debug\1Adonet.csproj.CoreCompileInputs.cache
+D:\lenovo\Documents\1Adonet\obj\Debug\1Adonet.exe
+D:\lenovo\Documents\1Adonet\obj\Debug\1Adonet.pdb
